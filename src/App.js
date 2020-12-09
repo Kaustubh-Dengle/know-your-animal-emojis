@@ -62,7 +62,7 @@ export default function App() {
         placeholder="Enter your emoji here"
       ></input>
       <h2> {meaning} </h2>
-      <h3> Emojis we know 👇:</h3>
+      <h3> Emojis we know:</h3>
       {emojisWeKnow.map(function (emoji) {
         return (
           <span
@@ -78,7 +78,7 @@ export default function App() {
         <p>
           Above app will help you know which animal is in the emoji you enter.
           You can also click on the emojis in our database to know its meaning.
-          Database will be updated, sorry if your emoji isn't in our database😓
+          Database will be updated, sorry if your emoji isn't in our database.
         </p>
       </footer>
     </div>
