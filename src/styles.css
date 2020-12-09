@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  border: 1px solid black;
+  max-width: 70vw;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  background-color: lemonchiffon;
+  padding: 1rem;
+}
+input {
+  padding: 1rem;
+  border-radius: 1rem;
+  font-size: 1.2rem;
+  background-color: lemonchiffon;
+}
+
+body {
+  margin: auto;
+  margin-top: 1rem;
+  background-color: yellow;
+  max-width: 70vw;
+}
+footer {
+  border: 1px solid black;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  background-color: lemonchiffon;
+  padding: 0rem 1rem;
+}
